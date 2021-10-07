@@ -1,0 +1,13 @@
+PROGRAM My
+VAR a, b, c : real
+BEGIN
+    IF(a+2 > 2.5)
+     BEGIN
+       a = 4;
+     END;
+
+    WHILE(c == 2)
+      BEGIN
+        c = a - a
+      END;
+END.
